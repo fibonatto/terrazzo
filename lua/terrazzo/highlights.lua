@@ -1,4 +1,4 @@
-local U = require("onehalfmatte.util")
+local U = require("terrazzo.util")
 
 local M = {}
 
