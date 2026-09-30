@@ -5,6 +5,9 @@ A muted, matte colorscheme for Neovim, in light and dark variants.
 Terrazzo is a floor made of stone chips (terracotta, ochre, sage, slate blue, mauve) set in a neutral cement base. That is also how this theme is built: a quiet background, and syntax colors that are distinct from one another but never loud.
 
 <!-- Add screenshots here, e.g. assets/light.png and assets/dark.png -->
+![terrazzo-light.png](./terrazo-light.png) ![terrazzo-dark.png](./terrazo-dark.png)
+
+
 
 ## Features
 
